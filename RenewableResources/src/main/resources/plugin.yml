@@ -1,0 +1,9 @@
+name: ${project.name}
+version: ${project.version}
+main: ${project.mainClass}
+author: ${project.author}
+description: ${project.description}
+softdepend:
+- WorldGuard
+api-version: ${project.apiVersion}
+commands: null

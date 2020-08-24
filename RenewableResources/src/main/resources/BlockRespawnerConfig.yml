@@ -1,0 +1,49 @@
+BlockTypes:
+  Brain_Coral_Block:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d
+  Bubble_Coral_Block:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d
+  Clay:
+    MaxRespawnTime: 2d
+    MinRespawnTime: 1d
+  Coal_Ore:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d
+  Cobweb:
+    MaxRespawnTime: 1d
+    MinRespawnTime: 6h
+  Dead_Bush:
+    MaxRespawnTime: 1d
+    MinRespawnTime: 6h
+  Diamond_Ore:
+    MaxRespawnTime: 7d
+    MinRespawnTime: 5d
+  Emerald_Ore:
+    MaxRespawnTime: 5d
+    MinRespawnTime: 4d
+  Fire_Coral_Block:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d
+  Gold_Ore:
+    MaxRespawnTime: 4d
+    MinRespawnTime: 3d
+  Horn_Coral_Block:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d
+  Iron_Ore:
+    MaxRespawnTime: 4d
+    MinRespawnTime: 3d
+  Lapis_Ore:
+    MaxRespawnTime: 5d
+    MinRespawnTime: 3d
+  Obsidian:
+    MaxRespawnTime: 6d
+    MinRespawnTime: 5d
+  Redstone_Ore:
+    MaxRespawnTime: 5d
+    MinRespawnTime: 4d
+  Tube_Coral_Block:
+    MaxRespawnTime: 3d
+    MinRespawnTime: 1d

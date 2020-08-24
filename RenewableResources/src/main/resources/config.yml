@@ -1,0 +1,22 @@
+debug: false
+BlockRespawner:
+  Enabled: false
+  SyncVeinRespawn: true
+  WGFlag: false
+PlantPropagator:
+  Enabled: false
+  AttemptsPerDay: 4
+  NewGrowthSpreadRange: 64
+  OriginPlantSearchRange: 64
+AutoPlanter:
+  Enabled: false
+  Saplings:
+    Enabled: true
+    AvoidOvercrowding: true
+    GerminationChance-Decay: 90
+    GerminationChance-Drop: 45
+    GerminationDelay: 20m
+  Seeds:
+    Enabled: true
+    GerminationChance: 90
+    GerminationDelay: 10m
